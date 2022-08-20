@@ -1,1 +1,1 @@
-My second readme
+Introduction to Git and Github essentials
